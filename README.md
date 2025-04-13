@@ -39,7 +39,7 @@ curl --proto '=https' --tlsv1.2 -sSfL https://solana-install.solana.workers.dev 
 Kiểm tra version
 
 ```
-solana version
+solana --version
 ```
 
 Note: Nếu lỗi không tìm thấy version thì cài lệnh bên dưới
